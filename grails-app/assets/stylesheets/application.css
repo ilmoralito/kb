@@ -1,0 +1,8 @@
+/*
+*= require_self
+*= require bootstrap
+*/
+
+body {
+	padding-top: 45px;
+}
